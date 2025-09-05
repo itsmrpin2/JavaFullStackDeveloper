@@ -1,40 +1,89 @@
-# 💻 Java Full Stack Developer Repository
+# Java Full Stack Developer Learning Repository
 
-Welcome to the **Java Full Stack Developer** repository — a comprehensive, modular collection of code samples, documentation, and project templates spanning the full development stack. This repository is designed to support learning, interview preparation, and enterprise-grade application development.
+A comprehensive collection of learning materials, documentation, and resources for Java Full Stack Development.
 
----
+## 📚 Repository Structure
 
-## 📚 Contents
+### 🅰️ Angular
+- Angular.js fundamentals and interview preparation materials
+- Complete Angular guides and professional notes
+- TypeScript tutorials
+- Angular workspace setup guides
 
-This repository is organized into multiple folders and modules covering:
+### ☕ Core Java & Advanced Java
+- Java 8 Features
+- Java Collections Framework
+- Advanced programming concepts
 
-### 🧠 Core Backend Technologies
-- **Core Java**: OOP, Collections, Multithreading, Exception Handling, JVM Internals
-- **Advanced Java**: JDBC, Servlets, JSP, Filters, Listeners
-- **Spring Framework**: Core, AOP, Security, MVC
-- **Spring Boot**: REST APIs, Actuator, Profiles, Validation
-- **Microservices**: Service Registry, API Gateway, Circuit Breaker, Config Server, Feign Clients
+### ☁️ DevOps with Cloud
+- AWS Services overview and implementation
+- DevOps tools and practices including:
+  - Docker and Kubernetes setup
+  - Jenkins CI/CD pipelines 
+  - Maven build automation
+  - Ansible configuration management
+  - ELK Stack monitoring
+  - Nexus artifact repository
+  - SonarQube code analysis
 
-### 🗄️ Databases
-- **RDBMS**: MySQL, PostgreSQL, Oracle
-- **SQL & PL/SQL**: Queries, Procedures, Functions, Triggers
-- **NoSQL**: MongoDB, Redis
+### 🎯 DSA & Design Patterns
+- Data Structures and Algorithms
+- Software Design Patterns
+
+### 🛠️ Development Projects
+- Sample applications and dummy projects
+- Practice exercises
 
 ### 🌐 Frontend Technologies
-- **HTML5, CSS3, JavaScript (ES6+)**
-- **Angular**: Components, Services, Routing, Forms
-- **React**: Hooks, Context API, Redux, Routing
+- HTML, CSS, JavaScript fundamentals
+- Frontend development guides
 
-### ⚙️ DevOps & Build Tools
-- **Maven & Gradle**: Build scripts, dependency management
-- **Git & GitHub**: Version control, branching strategies
-- **Docker**: Containerization of services
-- **Kubernetes**: Deployment, scaling, service orchestration
+### 💻 OS & Development Tools
+- Operating Systems concepts
+- Development tools and utilities
 
-### ☁️ Cloud Platforms
-- **Amazon Web Services (AWS)**: EC2, S3, RDS, IAM
-- **Google Cloud Platform (GCP)**: App Engine, Cloud SQL, IAM
-- **Microsoft Azure**: App Services, Blob Storage, SQL Database
+### ⚛️ React
+- React.js fundamentals and advanced concepts
 
----
+### 📝 Resume & Interview Preparation
+- Resume writing guidelines
+- Interview questions and preparation notes
+- Career development resources
+
+### 🔄 Spring & Spring Boot & Microservices
+- Spring Framework core concepts
+- Spring Boot application development
+- Microservices architecture patterns
+
+### 📊 Databases
+- SQL fundamentals
+- PL/SQL programming
+- NoSQL databases
+
+## 🚀 Getting Started
+
+1. Clone this repository
+2. Navigate to specific technology folder
+3. Follow setup instructions in respective documentation
+4. Use learning materials and practice exercises
+
+## 📖 Documentation
+
+Each technology folder contains its own documentation including:
+- Setup guides
+- Best practices
+- Code examples
+- Interview preparation materials
+
+## 🤝 Contributing
+
+Feel free to contribute by:
+1. Forking the repository
+2. Creating your feature branch
+3. Committing your changes
+4. Creating a pull request
+
+## 📄 License
+
+This repository is for learning purposes. Please check individual files for specific licensing information.
 
