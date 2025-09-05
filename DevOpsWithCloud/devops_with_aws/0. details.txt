@@ -1,0 +1,40 @@
+
++------+----------------------------------+-------+-----+
+| S.No | Topic                            | Start | End |
++------+----------------------------------+-------+-----+
+| 1    | Basics                           | 1     | 7   |
+| 2    | AWS Services Overview            | 8     | 16  |
+| 3    | Overview of all topics up to now | 17    | 17  |
+| 4    | IAM                              | 18    | 22  |
+| 5    | EC2                              | 23    | 33  |
+| 6    | Cloud Watch                      | 34    | 34  |
+| 7    | Systems Manager                  | 35    | 35  |
+| 8    | Elastic Beanstalk                | 36    | 36  |
+| 9    | Blue-Green Deployment Model      | 36    | 37  |
+| 10   | S3                               | 37    | 41  |
+| 11   | DataSync & AWS CLI               | 42    | 42  |
+| 12   | Storage Gateway                  | 43    | 43  |
+| 13   | Active Directory                 | 44    | 44  |
+| 14   | RDS			          | 45    | 46  |
+| 15   | LAMP Stack 	                  | 47    | 47  |
+| 16   | Database Migration Service       | 48    | 48  |
+| 17   | ElastiCache & RedShift           | 49    | 49  |
+| 18   | Dynamo DB           		  | 50    | 50  |
+| 19   | Cloud Front           		  | 51    | 51  |
+| 20   | Serverless Deployment Project 	  | 52    | 52  |
+| 21   | Migration Using MGN 	  	  | 53    | 53  |
+| 22   | Route53			  | 54    | 54  |
+| 22   | VPC			 	  | 55    | 56  |
+| 23   | Cloud Formation  		  | 57    | 57  |
+| 24   | 3 Tier Architecture	      	  | 58    | 58  |
+|      | 			 	  |       |     |
+| 25   | Linux			 	  | 59    | 64  |
+| 26   | DevOps Intro			  | 65    | 66  |
+| 27   | GitHub			 	  | 67    | 72  |
+| 28   | Maven			 	  | 73    | 73  |
+| 29   | Jenkins			  | 74    | 80  |
+| 30   | Ansible			  | 81    | 85  |
+| 31   | Docker				  | 86    | 91  |
+| 32   | Kubernetes			  | 92    | 99  |
+| 33   | Grafana & Promotheus 	  	  | 100   |     |
++------+----------------------------------+-------+-----+
